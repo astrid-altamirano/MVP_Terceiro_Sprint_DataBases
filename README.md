@@ -2,10 +2,11 @@
 ### Estudo do Impacto Financeiro dos Agrotóxicos e dos Fertilizantes no Custo de Produção da Batata-Inglesa em Minas Gerais
 
 * **Aluna:** Astrid Eleanor Altamirano Junqueira
-* **Data:** 12 de Setembro de 2026
+* **Data:** 13 de Setembro de 2026
+* **Hora: 11:16 am
 
 ---
-
+## Nota: Os gráficos do trabalho encontram-se no arquivo PDF.
 ## 1. Contexto de Negócios e Perguntas (Etapa 2 e 4.1)
 
 ### Contexto e Objetivo
